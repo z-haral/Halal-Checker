@@ -1,0 +1,1639 @@
+[
+  {
+    "off_id": "6111242100992",
+    "name": "perly",
+    "brand": "perly",
+    "ingredients_text": "milk cream, cream, sugar, banana, bacteria",
+    "labels": []
+  },
+  {
+    "off_id": "7622210449283",
+    "name": "Prince Go\u00fbt Chocolat",
+    "brand": "LU",
+    "ingredients_text": "C\u00e9r\u00e9ale 50 % (Farine de bl\u00e9 34,8 %, farine de bl\u00e9 complet 15,2 %), sucre, huiles v\u00e9g\u00e9tales (palme, colza), cacao maigre en poudre 4,5 %, sirop de glucose, amidon de bl\u00e9, poudres \u00e0 lever (carbonates d'ammonium, carbonates de sodium), \u00e9mulsifiant (l\u00e9cithines de soja), sel, lait \u00e9cr\u00e9m\u00e9 en poudre, perm\u00e9at de lactos\u00e9rum (de lait), ar\u00f4mes. Peut contenir \u0153uf.",
+    "labels": [
+      "en:distributor-labels",
+      "en:charte-lu-harmony",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "3046920029759",
+    "name": "Excellence Noir Prodigieux 90% Cacao",
+    "brand": "Lindt",
+    "ingredients_text": "P\u00e2te de cacao, beurre de cacao, cacao maigre, sucre, vanille.",
+    "labels": [
+      "en:green-dot",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "6111031005064",
+    "name": "Tonik",
+    "brand": "\u0639\u0631\u0628\u064a",
+    "ingredients_text": "Coffret fourr\u00e9 au cacao (41,6%) et \u00e0 la vanille (208) - Ingr\u00e9dients Farine de bl\u00e9, sucre, huile v\u00e9g\u00e9tale non hydrog\u00e9n\u00e9e (huile de palme), filtrat de lait, poudre de cacao \u00c9mulsifiant \u00e0 faible teneur en cacao (322) L\u00e9cithine de soja) Agent levant (5000) Sucre artificiel (vanilline) Sel Contient du lait, du bl\u00e9 (gluten) du soja",
+    "labels": [
+      "fr:tonik"
+    ]
+  },
+  {
+    "off_id": "3175680011480",
+    "name": "S\u00e9same",
+    "brand": "Gerbl\u00e9",
+    "ingredients_text": "Farine de bl\u00e9 57%, sucre de canne roux, huile de colza, s\u00e9same toast\u00e9 10,6%, germe de bl\u00e9 5,4%, farine compl\u00e8te de bl\u00e9 5,4%, ar\u00f4me naturel, magn\u00e9sium, \u00e9mulsifiant : l\u00e9cithines, poudres \u00e0 lever (tartrates de potassium, carbonates de sodium, carbonates d'ammonium), sel de mer, amidon de bl\u00e9, vitamines (E, PP, B6, B1, B9).",
+    "labels": [
+      "en:no-preservatives",
+      "en:green-dot",
+      "en:made-in-france",
+      "en:natural-flavors",
+      "en:no-colorings",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "20995553",
+    "name": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434 85% \u043a\u0430\u043a\u0430\u043e\u0432\u0430 \u043c\u0430\u0441\u0430",
+    "brand": "J. D. Gross",
+    "ingredients_text": "\u041a\u0430\u043a\u0430\u043e\u0432\u0430 \u043c\u0430\u0441\u0430, \u043d\u0438\u0441\u043a\u043e\u043c\u0430\u0441\u043b\u0435\u043d\u043e \u043a\u0430\u043a\u0430\u043e \u043d\u0430 \u043f\u0440\u0430\u0445, \u043a\u0430\u043a\u0430\u043e\u0432\u043e \u043c\u0430\u0441\u043b\u043e, \u0437\u0430\u0445\u0430\u0440, \u0435\u043c\u0443\u043b\u0433\u0430\u0442\u043e\u0440: \u043b\u0435\u0446\u0438\u0442\u0438\u043d (\u0441\u043e\u0435\u0432\u0438), \u0435\u043a\u0441\u0442\u0440\u0430\u043a\u0442 \u043e\u0442 \u0432\u0430\u043d\u0438\u043b\u0438\u044f, \u041c\u043e\u0436\u0435 \u0434\u0430 \u0441\u044a\u0434\u044a\u0440\u0436\u0430 \u0441\u043b\u0435\u0434\u0438 \u043e\u0442 \u044f\u0434\u043a\u0438 \u0438 \u043c\u043b\u044f\u043a\u043e,",
+    "labels": [
+      "en:vegetarian",
+      "en:fair-trade",
+      "en:fairtrade-international",
+      "en:no-artificial-flavors",
+      "en:vegan",
+      "en:fairtrade-cocoa",
+      "en:fsc",
+      "en:fsc-mix",
+      "en:max-havelaar"
+    ]
+  },
+  {
+    "off_id": "3268840001008",
+    "name": "CRISTALINE Eau De Source 0.5L",
+    "brand": "Cristaline",
+    "ingredients_text": "Eau de source",
+    "labels": [
+      "fr:triman",
+      "fr:sans-nitrates"
+    ]
+  },
+  {
+    "off_id": "3362600011044",
+    "name": "Henry\u2019s",
+    "brand": "Henry's",
+    "ingredients_text": "Farine de froment, sucre, graisse v\u00e9g\u00e9tale, sucre inverti, agents levants ( bicarbonate d'ammonium - bicarbonate de sodium), sel, arome.",
+    "labels": []
+  },
+  {
+    "off_id": "8425197712024",
+    "name": "",
+    "brand": "Maruja",
+    "ingredients_text": "sugar, cocoa butter, whole milk powder, cocoa mass, almonds, emulsifier (soya lecithin), flavoring",
+    "labels": [
+      "en:green-dot",
+      "en:made-in-spain",
+      "en:ce"
+    ]
+  },
+  {
+    "off_id": "7622210578464",
+    "name": "Organic 70% Dark Chocolate Bar",
+    "brand": "Green & Black's",
+    "ingredients_text": "cocoa mass #, cane sugar #, cocoa butter #, vanilla extract #, may contain nuts, milk,",
+    "labels": [
+      "en:vegetarian",
+      "en:fair-trade",
+      "en:organic",
+      "en:eu-organic",
+      "en:fairtrade-international",
+      "en:vegan",
+      "en:pl-eko-07",
+      "en:soil-association-organic",
+      "en:the-vegan-society",
+      "en:commerce-equitable"
+    ]
+  },
+  {
+    "off_id": "6111259343108",
+    "name": "KING COOKIES",
+    "brand": "Excelo",
+    "ingredients_text": "\u062f\u0642\u064a\u0642\u0627\u0644\u0642\u0645\u062d\u060c\u0631\u0642\u0627\u0626\u0642 \u0627\u0644\u0634\u0648\u0643\u0648\u0644\u0627\u062a\u064720%[\u0639\u062c\u064a\u0646\u0629 \u0632\u064a\u062a \u0627\u0644\u0646\u062e\u0644\u0629.\u0627\u0644\u0643\u0627\u0643\u0627\u0648\u060c\u0633\u0643\u0631\u060c\u062f\u0643\u0633\u062a\u0631\u0648\u0632 \u0648 \u0645\u0633\u062a\u062d\u0644\u0628",
+    "labels": [
+      "en:green-dot"
+    ]
+  },
+  {
+    "off_id": "3362600011228",
+    "name": "Sable coco Henry s 42g",
+    "brand": "Henry's",
+    "ingredients_text": "Farine de _froment_, sucre, graisse v\u00e9g\u00e9tale, noix de coco r\u00e2p\u00e9e, poudre de _lait_, poudre de _lactos\u00e9rum_, sucre inverti, agents levants (bicarbonate d'ammonium - bicarbonate de Sodium), sel, ar\u00f4mes.",
+    "labels": []
+  },
+  {
+    "off_id": "8000500310427",
+    "name": "Biscuits croquants au coeur onctueux de Nutella\u00ae",
+    "brand": "Nutella",
+    "ingredients_text": "P\u00e2te \u00e0 tartiner aux NOISETTES et au cacao 40% (sucre, huile de palme, NOISETTES 13%**, LAIT \u00e9cr\u00e9m\u00e9 en poudre 8,7%**, cacao maigre 7,4%**, \u00e9mulsifiants : l\u00e9cithines [SOJA]; vanilline), farine de FROMENT 32,5%, graisses v\u00e9g\u00e9tales (palme, palmiste), sucre de canne (contient BLE) 8,5%, LACTOSE, son de BLE, LAIT en poudre, miel, poudres \u00e0 lever (diphosphate disodique, carbonate acide de sodium, carbonate acide d'ammonium), farine d'ORGE malt\u00e9, cacao maigre en poudre, sel, extrait en poudre de malt d'ORGE et de ma\u00efs, amidon de FROMENT, \u00e9mulsifiants: l\u00e9cithines [SOJA]; vanilline.",
+    "labels": [
+      "en:vegetarian",
+      "fr:ponto-verde"
+    ]
+  },
+  {
+    "off_id": "7300400481595",
+    "name": "Tartine croustillante Authentique",
+    "brand": "wasa",
+    "ingredients_text": "Farine compl\u00e8te de SEIGLE (77 g*), farine de SEIGLE (28 g*), levure, sel. Peut contenir des traces de LUPIN, LAIT, MOUTARDE, GRAINES DE S\u00c9SAME et SOJA. *en g pour 100 g de produit.",
+    "labels": [
+      "en:vegetarian",
+      "en:green-dot",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "3046920022651",
+    "name": "Excellence Noir Intense 70% Cacao",
+    "brand": "Lindt",
+    "ingredients_text": "P\u00e2te de cacao, sucre, beurre de cacao, vanille.\r\n\r\nPeut contenir des fruits \u00e0 coque, du lait, du soja et des graines de s\u00e9same.",
+    "labels": [
+      "en:no-preservatives",
+      "en:made-in-france",
+      "fr:triman",
+      "fr:lindt-sprungli-cacao-farming-program"
+    ]
+  },
+  {
+    "off_id": "5060042641000",
+    "name": "Lightly sea salted crisps",
+    "brand": "Tyrrell's",
+    "ingredients_text": "Kartoffeln, Sonnenblumen\u00f6l, Meersalz.",
+    "labels": [
+      "en:vegetarian",
+      "en:no-gluten",
+      "en:no-artificial-flavors",
+      "en:vegan",
+      "en:assured-food-standards",
+      "en:green-dot",
+      "en:no-artificial-colors",
+      "en:no-flavour-enhancer",
+      "en:no-msg",
+      "fr:triman",
+      "en:made-in-england",
+      "en:terracycle"
+    ]
+  },
+  {
+    "off_id": "7622210584724",
+    "name": "Dark chocolate",
+    "brand": "Green and black",
+    "ingredients_text": "p\u00e2te de cacao*, beurre de cacao*, cacao maigre en poudre*, sucre de canne*, extrait de vanille*, * ingr\u00e9dients issus de l'agriculture biologique",
+    "labels": [
+      "en:fair-trade",
+      "en:organic",
+      "en:vegetarian",
+      "en:eu-organic",
+      "en:fairtrade-international",
+      "en:non-eu-agriculture",
+      "en:vegan",
+      "en:fr-bio-01",
+      "en:fsc",
+      "en:fsc-mix",
+      "en:green-dot",
+      "en:max-havelaar",
+      "en:pl-eko-07",
+      "en:soil-association-organic",
+      "en:the-vegan-society"
+    ]
+  },
+  {
+    "off_id": "3046920022606",
+    "name": "Excellence Noir Puissant 85% Cacao",
+    "brand": "Lindt",
+    "ingredients_text": "P\u00e2te de cacao, cacao maigre, beurre de cacao, cassonade, vanille",
+    "labels": [
+      "en:non-eu-agriculture",
+      "en:made-in-belgium",
+      "en:made-in-france",
+      "en:no-palm-oil",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "3229820100234",
+    "name": "Fourr\u00e9s Chocolat Noir",
+    "brand": "Bjorg",
+    "ingredients_text": "Farine de bl\u00e9* 41%, Chocolat noir* 22% (p\u00e2te de cacao*, sucre de canne&quot;, beurre de cacao&quot;), Sucre de canne* roux non raffin\u00e9, Farine compl\u00e8te de bl\u00e9* 16%, Huile de tournesol ol\u00e9ique*, Ar\u00f4me naturel de vanille, Lait \u00e9cr\u00e9m\u00e9 en poudre, Sel de mer, carbonates d'ammonium, carbonates de sodium, gomme d'acacia*, extraits de romarin* Peut contenir du soja, des \u0153ufs, des fruits \u00e0 coque, des graines de s\u00e9same et de la moutarde. *Ingr\u00e9dients biologiques.",
+    "labels": [
+      "en:organic",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:certified-b-corporation",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:fr-bio-01",
+      "en:no-palm-oil",
+      "en:pure-cocoa-butter",
+      "fr:ab-agriculture-biologique",
+      "fr:farine-de-ble-francais"
+    ]
+  },
+  {
+    "off_id": "20022464",
+    "name": "Extra dark 74% Cocoa",
+    "brand": "fin CARR\u00c9",
+    "ingredients_text": "cocoa mass, sugar, cocoa butter, fat reduced cocoa powder, emulsifier: lecithins (soya), natural vanilla flavouring, dark chocolate contains: cocoa solids 74% minimum,",
+    "labels": [
+      "en:vegetarian",
+      "en:fair-trade",
+      "en:fairtrade-international",
+      "en:vegan",
+      "en:fairtrade-cocoa",
+      "en:pure-cocoa-butter",
+      "en:rainforest-alliance",
+      "en:rainforest-alliance-cocoa",
+      "en:commerce-equitable"
+    ]
+  },
+  {
+    "off_id": "7300400481588",
+    "name": "FIBRES",
+    "brand": "Wasa",
+    "ingredients_text": "Farine compl\u00e8te de SEIGLE 59 g*, son de BL\u00c9 27 g*, flocons d'AVOINE 12 g*, GRAINES DE S\u00c9SAME 7,0 g*, germe de BL\u00c9, sel. *en g pour 100 g de produit fini. Peut contenir des traces de LUPIN, LAIT, MOUTARDE et SOJA.",
+    "labels": [
+      "en:vegetarian",
+      "en:source-of-fibre",
+      "en:green-dot",
+      "en:high-fibres",
+      "fr:triman",
+      "fr:emballage-recyclable"
+    ]
+  },
+  {
+    "off_id": "3362600011006",
+    "name": "Henry\u2019s",
+    "brand": "Henry\u2019s",
+    "ingredients_text": "farine de froment, sucre, Graisse v\u00e9g\u00e9tale , Sucre inverti, Agents levants (Bicarbonate d'ammonium, Bicarbonate de sodium), ar\u00f4me vanille",
+    "labels": [
+      "en:halal"
+    ]
+  },
+  {
+    "off_id": "6111259341197",
+    "name": "Momo black",
+    "brand": "Excelo",
+    "ingredients_text": "Farine de bl\u00e9, sucre, huile v\u00e9g\u00e9tale hydrog\u00e9n\u00e9e (palme), cacao en poudre (3,4%), r\u00e9gulateur d'acidit\u00e9 (acide citrique (E330), acide tartrique (E334)), poudre \u00e0 lever (bicarbonate d'ammonium et bicarbonate sodium), \u00e9mulsifiant v\u00e9g\u00e9tal (l\u00e9cithine de soja (E322)) et sel.",
+    "labels": [
+      "en:unknown"
+    ]
+  },
+  {
+    "off_id": "5410041001204",
+    "name": "Tuc Original",
+    "brand": "Mondel\u0113z, LU",
+    "ingredients_text": "Farine de _BL\u00c9_, huile de palme, sirop de glucose, extrait de malt d'_ORGE_, poudres \u00e0 lever (carbonates d'ammonium, carbonates de sodium), sel, _OEUFS_, ar\u00f4me, agent de traitement de la farine (_DISULFITE_ de sodium).",
+    "labels": [
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "3046920028004",
+    "name": "70% chocolate",
+    "brand": "Lindt & Spr\u00fcngli",
+    "ingredients_text": "cocoa mass, sugar, cocoa butter, vanilla,",
+    "labels": [
+      "en:vegetarian",
+      "en:vegan",
+      "en:green-dot",
+      "en:made-in-france"
+    ]
+  },
+  {
+    "off_id": "6111259340992",
+    "name": "Eyoo cover",
+    "brand": "EXCELO",
+    "ingredients_text": "Sucre, Farine de bl\u00e9 tendre, Graisses v\u00e9g\u00e9tales (Palme, Karit\u00e9), Cacao en poudre, Sirop de glucose, Amidon de ma\u00efs, Poudre de lait, Poudre de lactos\u00e9rum, Lait entier en poudre, Masse de cacao, Poudre \u00e0 lever (Bicarbonate de sodium et d'ammonium), Sel, Emulsifiant (L\u00e9cithine de soja (E322), et Vaniline.",
+    "labels": []
+  },
+  {
+    "off_id": "06175700",
+    "name": "Tartines craquantes au sarrasin imp",
+    "brand": "Ekibio,Le pain des Fleurs",
+    "ingredients_text": "Farine de sarrasin* (97,6%), sucre de canne complet* (&lt;2%), sel marin. *issu de l'agriculture biologique.",
+    "labels": [
+      "en:vegetarian",
+      "en:fair-trade",
+      "en:no-gluten",
+      "en:organic",
+      "en:crossed-grain-trademark",
+      "en:eu-organic",
+      "en:kosher",
+      "en:vegan",
+      "en:green-dot",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:the-vegan-society",
+      "fr:ab-agriculture-biologique",
+      "fr:afdiag"
+    ]
+  },
+  {
+    "off_id": "3175681851849",
+    "name": "Pomme \ud83c\udf4f \ud83c\udf4e Noisette\ud83e\udd5c",
+    "brand": "Gerbl\u00e9",
+    "ingredients_text": "Farine de _bl\u00e9_ 68,5 %, huile de colza, sirop de sucres issus de fruits, jus concentr\u00e9 de pomme 5,3 %, _noisettes_ torr\u00e9fi\u00e9es 5,3 %, germe de _bl\u00e9_ 5,2 %, fibres de chicor\u00e9e: (fructooligosaccharides), extrait de malt d'_orge_, ar\u00f4me naturel de pomme, \u00e9mulsifiant (l\u00e9cithines de colza), amidon de _bl\u00e9_ , poudres \u00e0 lever (tartrates de potassium, carbonates de potassium), vitamines B1, vitamines B2, vitamines B6, vitamines B9, vitamines PP et vitamines E,",
+    "labels": [
+      "en:low-or-no-sugar",
+      "en:low-sugar",
+      "en:enriched-with-vitamins",
+      "en:low-or-no-sodium",
+      "en:no-preservatives",
+      "en:non-eu-agriculture",
+      "en:reduced-sugar",
+      "en:rich-in-vitamin-e",
+      "en:source-of-fibre",
+      "en:sustainable-farming",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:high-fibres",
+      "en:low-sodium",
+      "en:made-in-france",
+      "en:natural-flavors",
+      "en:no-colorings",
+      "en:no-dyes-or-preservatives",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "en:rich-in-vitamin-b1",
+      "en:rich-in-vitamin-b9",
+      "en:vitamin-b6-source",
+      "en:without-sweeteners",
+      "fr:farine-de-ble-francais",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "6111252860077",
+    "name": "Trios",
+    "brand": "Aperitivos company",
+    "ingredients_text": "Ma\u00efs, huile et/ou graisse v\u00e9g\u00e9tale, ar\u00f4mes, sel et colorant",
+    "labels": [
+      "en:green-dot"
+    ]
+  },
+  {
+    "off_id": "3046920028363",
+    "name": "Excellence 85% Cacao Rich Dark",
+    "brand": "Lindt",
+    "ingredients_text": "P\u00e2te de cacao, cacao maigre, beurre de cacao, cassonade, vanille.",
+    "labels": [
+      "en:green-dot",
+      "en:made-in-france"
+    ]
+  },
+  {
+    "off_id": "6111245591063",
+    "name": "Dalaa 550 feuilles",
+    "brand": "Unknown Brand",
+    "ingredients_text": "No Eco 0801 000 010\nDalaa\nDistribue par ES\nRue lbnou Al Moutaz, res. Le Joyau I\nn1 etage, App. 2-Casablanca\nTel  212 522 327 200-Fax  212 522 327 205\nFabrique par: Jeesr Industries\nLot Al Baraka Rue Al Watassiyine\nZone Industrielle BERRECHID-MAROC\n(212) 5 22 32 72 00ILG:\n(212) 5 22 32 72 05:S\nTel 12121 5 223\nFax: (212) 5 22 32 72 05\nMouchoirs tres doux Jos\n6111245 591063\nSLA6\ndalaa@novatis-group.com\nE-mail: dalaa@novatis-group.com",
+    "labels": []
+  },
+  {
+    "off_id": "20095291",
+    "name": "Edelbitter 70% Cacao",
+    "brand": "J.D Gross",
+    "ingredients_text": "Cocoa Mass, Sugar, Cocoa Butter, Emulsifier: Soya Lecithins, Vanilla Extract.",
+    "labels": [
+      "en:vegetarian",
+      "en:fair-trade",
+      "en:vegan",
+      "en:european-vegetarian-union",
+      "en:european-vegetarian-union-vegan",
+      "en:fairtrade-cocoa",
+      "en:fsc",
+      "en:fsc-mix",
+      "en:green-dot",
+      "en:pure-cocoa-butter"
+    ]
+  },
+  {
+    "off_id": "80176800",
+    "name": "Nutella",
+    "brand": "Ferrero",
+    "ingredients_text": "\u0417\u0430\u0445\u0430\u0440, \u043f\u0430\u043b\u043c\u043e\u0432\u043e \u043c\u0430\u0441\u043b\u043e, \u041b\u0415\u0428\u041d\u0418\u0426\u0418 (13%), \u043e\u0431\u0435\u0437\u043c\u0430\u0441\u043b\u0435\u043d\u043e \u041c\u041b\u042f\u041a\u041e \u043d\u0430 \u043f\u0440\u0430\u0445 (8,7%), \u043d\u0438\u0441\u043a\u043e\u043c\u0430\u0441\u043b\u0435\u043d\u043e \u043a\u0430\u043a\u0430\u043e \u043d\u0430 \u043f\u0440\u0430\u0445 (7,4%), \u0435\u043c\u0443\u043b\u0433\u0430\u0442\u043e\u0440: \u043b\u0435\u0446\u0438\u0442\u0438\u043d\u0438 (\u0421\u041e\u042f), \u0432\u0430\u043d\u0438\u043b\u0438\u043d.",
+    "labels": [
+      "en:green-dot",
+      "en:made-in-poland"
+    ]
+  },
+  {
+    "off_id": "5053990156009",
+    "name": "Pringles Original",
+    "brand": "Pringles",
+    "ingredients_text": "Pommes de terre d\u00e9shydrat\u00e9es, huiles v\u00e9g\u00e9tales (tournesol, palme, mais) en proportion variable, farine de bl\u00e9, farine de mais, farine de riz, maltodextrine, \u00e9mulsifiant (E471), sel, colorant (norbixine de rocou).",
+    "labels": [
+      "en:vegetarian",
+      "en:halal",
+      "en:vegan",
+      "en:halal-food-authority",
+      "fr:tidy-man",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "8410076801180",
+    "name": "Crunchy oats&honey",
+    "brand": "Nature Valley",
+    "ingredients_text": "Avoine compl\u00e8te (60%), sucre, huiles v\u00e9g\u00e9tales (tournesol, colza en proportions variables), miel (3%), sel de cuisine, m\u00e9lasse, \u00e9mulsifiant (l\u00e9cithines), poudre \u00e0 lever (bicarbonate de sodium).",
+    "labels": []
+  },
+  {
+    "off_id": "3251490332080",
+    "name": "Figue & son",
+    "brand": "Gerbl\u00e9",
+    "ingredients_text": "Farine compl\u00e8te de bl\u00e9 26,5%, farine de bl\u00e9 26,1%, son de bl\u00e9 19,9%, huile de colza, sucre de canne roux, p\u00e2te de figues 5,1%, ar\u00f4me naturel de figue, ar\u00f4me naturel, \u00e9mulsifiant : l\u00e9cithines de colza, poudres \u00e0 lever (acide citrique, carbonates de potassium, carbonates de sodium).",
+    "labels": [
+      "en:no-preservatives",
+      "en:source-of-fibre",
+      "en:high-fibres",
+      "en:made-in-france",
+      "en:no-colorings",
+      "en:no-palm-oil",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "3046920028721",
+    "name": "Bitter Extra Kraftig",
+    "brand": "Lindt,Lindt&Spr\u00fcngli",
+    "ingredients_text": "Kakaomasse, fettarmes Kakaopulver, Kakaobutter . Kann Schalenfr\u00fcchte, Milch und Soja enthalten.",
+    "labels": [
+      "en:eac",
+      "en:green-dot",
+      "en:made-in-france",
+      "en:pure-cocoa-butter",
+      "fr:triman",
+      "de:groene-punt"
+    ]
+  },
+  {
+    "off_id": "7613035040823",
+    "name": "Nestl\u00e9 Dessert",
+    "brand": "Nestl\u00e9",
+    "ingredients_text": "Sucre, p\u00e2te de cacao (Afrique de l'Ouest, Am\u00e9rique du Sud), beurre de cacao, \u00e9mulsifiant (l\u00e9cithine), ar\u00f4me naturel de vanille de Madagascar. Cacao : 53% minimum. Peut contenir : LAIT, FRUITS A COQUE.",
+    "labels": [
+      "en:nestle-cocoa-plan",
+      "en:nutriscore",
+      "en:nutriscore-grade-e",
+      "en:pure-cocoa-butter",
+      "en:rainforest-alliance",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "6111259342828",
+    "name": "Petit beurre",
+    "brand": "B\u00e9",
+    "ingredients_text": "Farine de bl\u00e9, Sucre, Beurre 11%, Fins \u00e9clats de caramel (Sucre, Lait \u00e9cr\u00e9m\u00e9 en poudre), Huiles v\u00e9g\u00e9tales hydrog\u00e9n\u00e9e (Palme), Amidon, \u0152ufs entier liquide pasteuris\u00e9, Lait \u00e9cr\u00e9m\u00e9 en poudre, Sirop de sucre inverti, poudres \u00e0 lever (Pyrophosphate acide de sodium, Bicarbonates de sodium, Bicarbonates d'ammonium), sel, \u00e9mulsifiant (l\u00e9cithines de soja), ar\u00f4me (vanilline). *Contient: Bl\u00e9 (c\u00e9r\u00e9ales contenant du gluten), \u0153ufs, soja et lait.",
+    "labels": []
+  },
+  {
+    "off_id": "3256540000698",
+    "name": "Pains au lait x10",
+    "brand": "Pasquier",
+    "ingredients_text": "Farine de _bl\u00e9_ 43%, Levain 21% (Farine de _bl\u00e9_ 11%, Eau, Sel), Sucre, _\u0152ufs_ frais 11%, _Beurre_ p\u00e2tissier, Huile de colza, Levure, _Lait_ \u00e9cr\u00e9m\u00e9 en poudre (\u00c9quivalent \u00e0 10% de lait \u00e9cr\u00e9m\u00e9 reconstitu\u00e9), \u00c9mulsifiant: mono et diglyc\u00e9rides d'acides gras, Sel, Prot\u00e9ines de _bl\u00e9_, _Gluten_ de bl\u00e9, Extrait de carotte, Agent de traitement de la farine : acide ascorbique, Prot\u00e9ines de _lait_",
+    "labels": [
+      "en:no-preservatives",
+      "en:french-milk",
+      "en:green-dot",
+      "en:made-in-france",
+      "en:nutriscore",
+      "en:nutriscore-grade-c",
+      "fr:farine-de-ble-francais"
+    ]
+  },
+  {
+    "off_id": "3045140105502",
+    "name": "Chocolat au lait",
+    "brand": "Milka",
+    "ingredients_text": "Sucre, Beurre de cacao, p\u00e2te de cacao, Lait \u00e9cr\u00e9m\u00e9 en poudre, lactos\u00e9rum en poudre (Lait), Beurre concentr\u00e9, \u00c9mulsifiant (L\u00e9cithine de soja), P\u00e2te de noisette, Ar\u00f4me naturel",
+    "labels": [
+      "en:cocoa-life",
+      "en:made-in-the-eu",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "3284230006408",
+    "name": "Brioche Tranch\u00e9e Bio 400g",
+    "brand": "La Boulang\u00e8re",
+    "ingredients_text": "Farine de BL\u00c9*/** 54%, \u0152UFS entiers*/** 14%, sucre de canne roux*, huile de tournesol*/** 8%, levain* (eau, farines de BL\u00c9*/** 2% et de SEIGLE*, levures), GLUTEN DE BL\u00c9*, sel, levure, ar\u00f4me naturel de vanille* (contient alcool*), extrait de vanille*, levure d\u00e9sactiv\u00e9e. Traces \u00e9ventuelles de lait, moutarde et soja. *Ingr\u00e9dients issus de l'Agriculture Biologique. **Ingr\u00e9dients issus du commerce \u00e9quitable fran\u00e7ais.",
+    "labels": [
+      "en:fair-trade",
+      "en:organic",
+      "en:eu-organic",
+      "en:free-range",
+      "en:no-artificial-flavors",
+      "en:non-eu-agriculture",
+      "en:1-for-the-planet",
+      "en:eu-agriculture",
+      "en:eu-non-eu-agriculture",
+      "en:fair-trade-organic",
+      "en:fr-bio-01",
+      "en:free-range-eggs",
+      "en:french-eggs",
+      "en:green-dot",
+      "en:made-in-france",
+      "en:no-colorings",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "fr:ab-agriculture-biologique",
+      "fr:agri-ethique-france"
+    ]
+  },
+  {
+    "off_id": "6111259343344",
+    "name": "King cookies choco",
+    "brand": "Excelo",
+    "ingredients_text": "Wheat flour, chocolate chips 20% (sugar, cocoa mass, cocoa butter, emulsifier: soy lecithin, natural vanilla flavour), sugar, glucose-fructose syrup, whey powder (milk), vegetable oils (palm, sunflower), cocoa powder, raising agents (sodium bicarbonate, ammonium bicarbonate), salt, flavour (vanilla)",
+    "labels": []
+  },
+  {
+    "off_id": "10614594",
+    "name": "Granatapfel Sauerkirsche Fruchtgummi",
+    "brand": "Snack rite",
+    "ingredients_text": "Weizenmehl, Wasser, 3% Kartoffelflocken, Roggenmehl, Salz, Hefe, S\u00e4ureregulator: Natriumacetate; Weizenmalzmehl, Alkohol. Kann Spuren von Soja, Milch, Senf und Sesam enthalten.",
+    "labels": [
+      "en:vegetarian",
+      "en:vegan",
+      "en:european-vegetarian-union",
+      "en:european-vegetarian-union-vegan"
+    ]
+  },
+  {
+    "off_id": "40896243",
+    "name": "Lidl Organic Dark Chocolate",
+    "brand": "LIDL",
+    "ingredients_text": "P\u00e2te de cacao, sucre de canne, beurre de cacao, \u00e9mulsifiant : l\u00e9cithines (_soja_).",
+    "labels": [
+      "en:vegetarian",
+      "en:fair-trade",
+      "en:organic",
+      "en:eu-organic",
+      "en:fairtrade-international",
+      "en:no-gmos",
+      "en:non-eu-agriculture",
+      "en:vegan",
+      "de:eg-\u00f6ko-verordnung",
+      "en:de-oko-003",
+      "en:european-vegetarian-union",
+      "en:european-vegetarian-union-vegan",
+      "en:max-havelaar",
+      "en:nutriscore",
+      "en:nutriscore-grade-e",
+      "fr:ab-agriculture-biologique",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "20815394",
+    "name": "Fruit & Nut Mix",
+    "brand": "Alesto,Lidl",
+    "ingredients_text": "25% Walnuts, 25% Whole Almonds, 25% Sultanas (Sultanas, Sunflower Oil), 25% Dried Sweetened Cranberries (Cranberries, Sugar, Sunflower Oil).",
+    "labels": [
+      "en:nutriscore",
+      "en:nutriscore-grade-b"
+    ]
+  },
+  {
+    "off_id": "3046920029780",
+    "name": "Excellence Noir Subtil Doux 70% Cacao",
+    "brand": "Lindt Excellence",
+    "ingredients_text": "P\u00e2te de cacao 70%, sucre, beurre de cacao, \u00e9mulsifiant (l\u00e9cithine de soja), vanille.",
+    "labels": [
+      "en:made-in-swiss",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "3587220002252",
+    "name": "La g\u00e2che tranch\u00e9e",
+    "brand": "La Fourn\u00e9e Dor\u00e9e",
+    "ingredients_text": "Farine de bl\u00e9 52%, sucre, beurre frais 10%, \u0153ufs entiers frais 8%, eau, cr\u00e8me fra\u00eeche 3%, sel, ar\u00f4mes naturels (contient alcool), levure, gluten de bl\u00e9, eau de vie, prot\u00e9ines de lait, levure d\u00e9sactiv\u00e9e, colorant (b\u00e9ta carot\u00e8ne)",
+    "labels": [
+      "en:no-preservatives",
+      "en:green-dot",
+      "en:made-in-france",
+      "en:no-palm-oil",
+      "en:pure-butter"
+    ]
+  },
+  {
+    "off_id": "5053990101597",
+    "name": "Sour Cream & Onion",
+    "brand": "Pringles",
+    "ingredients_text": "Dehydrated potatoes, vegetable oils (Conflower, corn), rice flour, wheat starch, corn flour, sour cream & onion flavour, wheat starch, flavour enhancers (monosodium glutamate, disodium guanylate, disodium inosinate}, onion powder, maltodextrin, salt, dextrose, sunflower oil, sugar, sweet whey powder (milk), potato starch, modified maize starch, acids (citric acid, lactic acid, malic acid), sour cream powder (milk)*, natural and nature identical flavourings onion powder and sour cream yeast extract, glucose syrup, four), emulsifier (E471) colour (annatto). milk.",
+    "labels": [
+      "en:vegetarian",
+      "en:nutriscore",
+      "en:nutriscore-grade-a"
+    ]
+  },
+  {
+    "off_id": "8410510012196",
+    "name": "Chocolat Noir 92% cacao",
+    "brand": "Dark Excellente",
+    "ingredients_text": "P\u00e2te de cacao, cacao en poudre d\u00e9graiss\u00e9, beurre de cacao, sucre, lait en poudre, p\u00e2te de amandes et de noisettes, \u00e9mulsifiants (l\u00e9cithines (soja, tournesol)) et ar\u00f4me.",
+    "labels": []
+  },
+  {
+    "off_id": "6111031005064",
+    "name": "Tonik",
+    "brand": "\u0639\u0631\u0628\u064a",
+    "ingredients_text": "Coffret fourr\u00e9 au cacao (41,6%) et \u00e0 la vanille (208) - Ingr\u00e9dients Farine de bl\u00e9, sucre, huile v\u00e9g\u00e9tale non hydrog\u00e9n\u00e9e (huile de palme), filtrat de lait, poudre de cacao \u00c9mulsifiant \u00e0 faible teneur en cacao (322) L\u00e9cithine de soja) Agent levant (5000) Sucre artificiel (vanilline) Sel Contient du lait, du bl\u00e9 (gluten) du soja",
+    "labels": [
+      "fr:tonik"
+    ]
+  },
+  {
+    "off_id": "8425197712024",
+    "name": "",
+    "brand": "Maruja",
+    "ingredients_text": "sugar, cocoa butter, whole milk powder, cocoa mass, almonds, emulsifier (soya lecithin), flavoring",
+    "labels": [
+      "en:green-dot",
+      "en:made-in-spain",
+      "en:ce"
+    ]
+  },
+  {
+    "off_id": "7622210584724",
+    "name": "Dark chocolate",
+    "brand": "Green and black",
+    "ingredients_text": "p\u00e2te de cacao*, beurre de cacao*, cacao maigre en poudre*, sucre de canne*, extrait de vanille*, * ingr\u00e9dients issus de l'agriculture biologique",
+    "labels": [
+      "en:fair-trade",
+      "en:organic",
+      "en:vegetarian",
+      "en:eu-organic",
+      "en:fairtrade-international",
+      "en:non-eu-agriculture",
+      "en:vegan",
+      "en:fr-bio-01",
+      "en:fsc",
+      "en:fsc-mix",
+      "en:green-dot",
+      "en:max-havelaar",
+      "en:pl-eko-07",
+      "en:soil-association-organic",
+      "en:the-vegan-society"
+    ]
+  },
+  {
+    "off_id": "6111245591063",
+    "name": "Dalaa 550 feuilles",
+    "brand": "Unknown Brand",
+    "ingredients_text": "No Eco 0801 000 010\nDalaa\nDistribue par ES\nRue lbnou Al Moutaz, res. Le Joyau I\nn1 etage, App. 2-Casablanca\nTel  212 522 327 200-Fax  212 522 327 205\nFabrique par: Jeesr Industries\nLot Al Baraka Rue Al Watassiyine\nZone Industrielle BERRECHID-MAROC\n(212) 5 22 32 72 00ILG:\n(212) 5 22 32 72 05:S\nTel 12121 5 223\nFax: (212) 5 22 32 72 05\nMouchoirs tres doux Jos\n6111245 591063\nSLA6\ndalaa@novatis-group.com\nE-mail: dalaa@novatis-group.com",
+    "labels": []
+  },
+  {
+    "off_id": "10614594",
+    "name": "Granatapfel Sauerkirsche Fruchtgummi",
+    "brand": "Snack rite",
+    "ingredients_text": "Weizenmehl, Wasser, 3% Kartoffelflocken, Roggenmehl, Salz, Hefe, S\u00e4ureregulator: Natriumacetate; Weizenmalzmehl, Alkohol. Kann Spuren von Soja, Milch, Senf und Sesam enthalten.",
+    "labels": [
+      "en:vegetarian",
+      "en:vegan",
+      "en:european-vegetarian-union",
+      "en:european-vegetarian-union-vegan"
+    ]
+  },
+  {
+    "off_id": "5000159461122",
+    "name": "Snickers",
+    "brand": "Snickers",
+    "ingredients_text": "Milk Chocolate (sugar, cocoa butter, chocolate, skim milk, lactose, milkfat, soy lecithin), peanuts, corn syrup, sugar, palm oil, skim milk, lactose, salt, egg whites, artificial flavor.",
+    "labels": [
+      "en:contains-milk",
+      "en:contains-soy",
+      "en:green-dot",
+      "fr:tidy-man"
+    ]
+  },
+  {
+    "off_id": "4014400400007",
+    "name": "Toffifee 15er",
+    "brand": "Storck",
+    "ingredients_text": "sugar, vegetable fats (palm, shea), hazelnuts, glucose syrup, skimmed milk powder, humectant sorbitol syrup, cocoa mass, condensed skimmed milk, condensed sweet whey, lactose, skimmed cocoa, cocoa butter, clarified butter, cane sugar syrup, whey product, emulsifier lecithins (soy), salt, flavourings, may also contain almond, peanut and other nuts,",
+    "labels": []
+  },
+  {
+    "off_id": "6111032006718",
+    "name": "",
+    "brand": "Danone",
+    "ingredients_text": "milb 17 00 \u0641\u0644\u0627\u0646 \u06a9\u0631\u0622\u0645\u064a\u0644 33 \u064a\u0633\u062a\u0647\u0644\u0643 \u062d\u062a\u0649: 21/04 15:24 \u0631\u0642\u0645 \u0627\u0644\u0625\u0639\u062a\u0645\u0627\u062f \u0627\u0644\u0635\u062d\u06cc LPL;3.1.13 :ONSSA \u062f \u0627\u0644\u0645\u0643\u0648\u0646\u0627\u062a: \u0633\u06a9\u0631\u060c \u0645\u0633\u062d\u0648\u0642 \u0627\u0644\u062d\u0644\u064a\u0628 \u0628\u062f\u0648\u0646 \u0642\u0634\u062f\u0629\u060c \u0645\u063a\u0637\u0649 \u0628\u0627\u0644\u0643\u0631\u0627\u0645\u064a\u0644\u060c \u0642\u0634\u062f\u0629\u060c \u0645\u062e\u062b\u0631 )\u0646\u0634\u0627\u0621 20 20 \u0648 U0 \u0645\u0643\u0627\u0644\u0645\u0629 \u062d\u0631\u0629 80\u063a 25 \u06a9\u0631\u0627\u06a9\u06cc\u0646\u0627\u0646(\u060c \u0646\u0643\u0647\u0629\u060c \u0645\u0644\u0648\u0646 \u0637\u0628\u064a\u0639\u064a )\u0628\u0627 \u06a9\u0627\u0631\u0648\u062a\u064a\u0646(\u060c\u0645\u062b\u0628\u062a )\u0641\u0648\u0633\u0641\u0627\u0637 \u0627\u0644\u0635\u0648\u062f\u064a\u0648\u0645( \u0645 \u0647\u0646%1\u06482 6111032&quot;006718 \u0627\u0644\u062d\u0627\u062c \u0642\u062f\u0648\u0631. \u0645\u0643\u0646\u0627\u0633 - \u0627\u0644\u0645\u063a\u0631\u0628 \u0627\u0646\u062a\u0647\u0627\u0621 \u0627\u0644\u0635\u0644\u0627\u062d\u064a\u0629 - 30 \u064a\u0648\u0645 \u064a\u062d\u0641\u0638 \u0641\u064a 5\u00b0 \u0639\u0644\u0649 \u0627\u0644\u0623\u0643\u062b\u0631. \u0633\u0646\u0637\u0631\u0627\u0644 \u062f\u0627\u0646\u0648\u0646 - \u0637\u0631\u064a\u0642 \u0642\u0644\u0627\u0646 \u0643\u0631\u0627\u0645\u06cc\u0644\u06d4 \u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0625\u0646\u062a\u0627\u062c = \u062a\u0627\u0631\u06cc\u062e %3D",
+    "labels": []
+  },
+  {
+    "off_id": "8000500023976",
+    "name": "Raffaello",
+    "brand": "Ferrero",
+    "ingredients_text": "\u0418\u0437\u0441\u0443\u0448\u0435\u043d \u043a\u043e\u043a\u043e\u0441 25,5%, \u0440\u0430\u0441\u0442\u0438\u0442\u0435\u043b\u043d\u0438 \u043c\u0430\u0437\u043d\u0438\u043d\u0438 (\u043f\u0430\u043b\u043c\u0430, \u0448\u0438\u0439), \u0437\u0430\u0445\u0430\u0440, \u0411\u0410\u0414\u0415\u041c (8%), \u043e\u0431\u0435\u0437\u043c\u0430\u0441\u043b\u0435\u043d\u043e \u041c\u041b\u042f\u041a\u041e \u043d\u0430 \u043f\u0440\u0430\u0445, \u0421\u0423\u0420\u041e\u0412\u0410\u0422\u041a\u0410 \u043d\u0430 \u043f\u0440\u0430\u0445, \u041f\u0428\u0415\u041d\u0418\u0427\u041d\u041e \u0431\u0440\u0430\u0448\u043d\u043e, \u041d\u0438\u0448\u0435\u0441\u0442\u0435 \u043e\u0442 \u0442\u0430\u043f\u0438\u043e\u043a\u0430, \u0430\u0440\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u043d\u0442\u0438, \u0435\u043c\u0443\u043b\u0433\u0430\u0442\u043e\u0440: \u043b\u0435\u0446\u0438\u0442\u0438\u043d\u0438 (\u0421\u041e\u042f); \u043d\u0430\u0431\u0443\u0445\u0432\u0430\u0442\u0435\u043b (\u043d\u0430\u0442\u0440\u0438\u0435\u0432 \u0445\u0438\u0434\u0440\u043e\u0433\u0435\u043d\u043a\u0430\u0440\u0431\u043e\u043d\u0430\u0442), \u0441\u043e\u043b.",
+    "labels": [
+      "en:green-dot",
+      "fr:tidy-man"
+    ]
+  },
+  {
+    "off_id": "80761761",
+    "name": "Kinder Bueno White",
+    "brand": "Kinder",
+    "ingredients_text": "white chocolate (cocoa butter, sugar, skimmed milk powder, concentrated butter, emulsifier: lecithins (soy), vanillin), sugar, palm oil, wheat flour, skimmed milk powder, whole milk powder, hazelnuts, whey powder, starch, fat reduced cocoa, sunflower oil, milk proteins, emulsifier: lecithins (soy), raising agents (ammonium hydrogen carbonate, sodium hydrogen carbonate), flavourings, salt",
+    "labels": [
+      "en:green-dot",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "7622201444327",
+    "name": "",
+    "brand": "clorets",
+    "ingredients_text": "fenil",
+    "labels": []
+  },
+  {
+    "off_id": "7614500010013",
+    "name": "Toblerone",
+    "brand": "Toblerone",
+    "ingredients_text": "sugar, whole milk powder, cocoa butter, cocoa mass, honey (3%), milk fat, almonds (1,6%), emulsifier (soya lecithin), egg white, flavouring, cocoa solids 28% minimum, milk solids 14% minimum,",
+    "labels": [
+      "en:vegetarian",
+      "en:no-gluten",
+      "en:green-dot",
+      "en:made-in-swiss",
+      "es:sin-tacc"
+    ]
+  },
+  {
+    "off_id": "6111031003756",
+    "name": "Tonik",
+    "brand": "Bimo",
+    "ingredients_text": "Farine de bl\u00e9, Sucre, Huile v\u00e9g\u00e9tale hydrog\u00e9n\u00e9e (plame), Cacao maigre en poudre, \u00c9mulsifiant d Soja' cactoserum en poudre. Poudre \u00e0 lever (Bicarbonate de sodium), Ar\u00f4me artificel (vanille), sel. CONTIENT: BLE, GLUTEN, SOJA, LAIT",
+    "labels": []
+  },
+  {
+    "off_id": "8000500273296",
+    "name": "Ferrero Rocher",
+    "brand": "Ferrero",
+    "ingredients_text": "milk chocolate (sugar, cocoa butter, skimmed milk powder, butter consented, emulsifier: lecithin [soy], vanillin), hazelnuts, sugar, palm oil, wheat flour, whey powder, lean cocoa, emulsifiers: lecithins [soy],baking powder: sodium acid carbonate, salt, vanillin,",
+    "labels": [
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "6111180010414",
+    "name": "Chocao energie",
+    "brand": "Unknown Brand",
+    "ingredients_text": "Sucre, poudre de cacao (25%), amidon de mais, \u00e9paississant: gomme guar, ar\u00f4mes: vanille et chocolat. \u0628\u0648\u062f\u0631\u0629 \u0645\u0633\u062a\u062d\u0636\u0631 \u0645\u0634\u0631\u0648\u0628 \u0627\u0644\u0643\u0627\u0643\u0627\u0648 \u0633\u0631\u064a\u0639 \u0627\u0644\u062a\u062d\u0636\u064a\u0631 \u0627\u0644\u0645\u0643\u0648\u0646\u0627\u062a : \u0633\u0643\u0631 \u0645\u0633\u062d\u0648\u0642 \u0627\u0644\u0643\u0627\u0643\u0627\u0648 (25) \u0646\u0634\u0627 \u0627\u0644\u0630\u0631\u0629 \u0645\u0643\u0644\u0641 : \u0635\u0645\u063a \u0643\u0648\u0627\u0646 \u0646\u0643\u0647\u0627\u062a: \u0627\u0644\u0641\u0627\u0646\u064a\u0644\u0627 \u0648 \u0627\u0644\u0634\u0648\u0643\u0648\u0644\u0627 Mode d'emploi: Verser 1 \u00e0 2 cuiller\u00e9es \u00e0 caf\u00e9 de la pr\u00e9paration au cacao dans une tasse de lait chaud ou froid. Bien m\u00e9langer. \u0637\u0631\u064a\u0642\u0629 \u0627\u0644\u0625\u0633\u062a\u0639\u0645\u0627\u0644 : \u0635\u0628 \u0645\u0644\u0639\u0642\u0629 \u0623\u0648 \u0645\u0644\u0639\u0642\u062a\u064a\u0646 \u0635\u063a\u064a\u0631\u062a\u064a\u0646 \u0645\u0646 \u062e\u0644\u064a\u0637 \u0627\u0644\u0643\u0627\u0643\u0627\u0648 \u0641\u064a \u0641\u0646\u062c\u0627\u0646 \u062d\u0644\u064a\u0628 \u0633\u0627\u062e\u0646 \u0623\u0648 \u0628\u0627\u0631\u062f \u062d\u0631\u0643\u0647 \u062c\u064a\u062f\u0627 900 \u064a\u062d\u0641\u0638 \u0641\u0649 \u0645\u0643\u0627\u0646 \u062c\u0627\u0641",
+    "labels": []
+  },
+  {
+    "off_id": "4008400260921",
+    "name": "Kinder Country",
+    "brand": "Kinder, Ferrero",
+    "ingredients_text": "Chocolat sup\u00e9rieur au LAIT 33,5% (sucre, beurre de cacao, LAIT en poudre, p\u00e2te de cacao, \u00e9mulsifiants : l\u00e9cithines [SOJA] ; vanilline), sucre, LAIT \u00e9cr\u00e9m\u00e9 en poudre 18%, huile de palme, BEURRE concentr\u00e9, ORGE, riz, FROMENT, BLE (\u00e9peautre), sarrasin, \u00e9mulsifiants (l\u00e9cithines [SOJA]), vanilline. Sur le total : produits laitiers 31%, c\u00e9r\u00e9ales 7,5%. Le chocolat utilis\u00e9 est un chocolat pur beurre de cacao.",
+    "labels": [
+      "en:vegetarian",
+      "en:green-dot",
+      "en:pure-cocoa-butter",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "6111259344501",
+    "name": "Extrem",
+    "brand": "Excelo",
+    "ingredients_text": "Sucre, Sirop de glucose, Cacahu\u00e8tes (20%). Cacao en poudre, Prigine vegeta (Poudre de laiter, Poudre be de Graisses v\u00e9g\u00e9tales (Palme, Palmiste), Beurre, Blanc d'\u0153uf en poudre, Poudre levante (Bicarbonate de sodium E500), Humectant (Sorbitol), Emulsifiant d'origine v\u00e9g\u00e9tale (lecithine de soja E322 Mone 471 polyricinoleate de polyglyc\u00e9rol E476), sel et Ar\u00f4me (vanilline). Contient : Arachides, Lait, \u0152ufs et Soja, peut contenir des traces des fruits \u00e0 coque. Attention: la consommation de 40 grammnes effet laxatif. EN: Nougat coated with cocoa, milk chocolate flavor with caramel and roasted peanuts. Ingredients: Sugar, Glucose syrup, Peanuts (20%), Cocoa powder. Dairy powders (Whole mill teins), Vegetable fats (Palm, Palm kernel), Butter, Egg white powder, Raising powder (Sodium bicarbonate E500), Humectant (Sorbitol), Emulsifier of plant origin (soy lecithin E322, Mono and E471) polyglycerol polyricinoleate E476), salt and Flavor (vanillin). Contains: Peanuts, Milk, Eggs and Soy, may contain traces of nuts.Warning: consuming 40 grams of sorbitol per day can cause a laxative sabor chocolate ao leite com caramelo e amendoim torrado. Ingredientes: A\u00e7\u00facar, xarope de glicose, amendoim (20%), cacau em p\u00f3, latic\u00ednios em p\u00f3 (leite em p\u00f3 integral, leite em p\u00f3 desnatado ma, palmiste), manteiga, cara de ovo em p\u00f3, fermento em p\u00f3 (sodio). bicarbonato E500), Umectante (Sorbitol), Emulsificante de origem vegetal (lecitina de soja E322, Mono e diglicerideos de de poiglicerol E476), sal e sabor (vanilina). Cont\u00e9m: Amendoim, Leite, Ovos e Soja, pode conter vestigios de nozes. Aten\u00e7\u00e3o: consumir 40 gramas de sorbitol por dia pode causar efeito laxante NL coladesmaak met karamel en geroosterde pinda's. Ingredi\u00ebnten: Suiker, Glucosestroop, Pinda's (20%), Cacaopoeder, Zuivelpoeders (Volle melkpoeder, Magere melkpoeder, Melkeiwitten), Plantor Eneder, Rijspoeder (Natrium bicarbonaat E500), bevochtigingsmiddel (sorbitol), emulgator van plantaardige oorsprong (sojalecithine E322, mono - en diglyceriden van vetzuren (6471), polyg if (vanilline). Bevat Pinda's, Melk, Eieren en Soja, kan sporen van noten bevatten. Waarschuwing: het consumeren van 40 gram sorbitol per dag kan een laxerend effect veroorzaken \u0633\u0648\u0643\u0631 \u0644\u0627\u062a\u0629 \u0627\u0644\u062d\u0644\u064a\u0628 \u0645\u0639 \u0627\u0644\u0643\u0631\u0627\u0645\u064a\u0644 \u0648\u0627\u0644\u0641\u0648\u0644 \u0627\u0644\u0633\u0648\u062f\u0627\u0646\u064a \u0627\u0644\u0645\u0643\u0648\u0646\u0627\u062a \u0633\u0643\u0631\u060c \u0634\u0631\u0627\u0628 \u0627\u0644\u062c\u0644\u0648\u0643\u0648\u0632\u060c \u0641\u0648\u0644 \u0633\u0648\u062f\u0627\u0646\u064a (20%) \u0645\u0633\u062d\u0648\u0642 \u0627\u0644\u0643\u0627\u0643\u0627\u0648\u060c \u0645\u0633\u0627\u062d\u064a\u0642 \u0627\u0644\u062d\u0644\u064a\u0628 ( \u0645\u0633\u062d\u0648\u0642 \u0627\u0644\u062d\u0644\u064a\u0628 \u0643\u0627\u0645\u0644 \u0627\u0644\u062f\u0633\u0645 \u0645\u0633\u062d\u0648\u0642 \u0627\u0644\u062d\u0644\u064a\u0628 \u0645\u0646\u0632\u0648\u0639 \u0627\u0644\u062f\u0633\u0645\u060c \u0628\u0631\u0648\u062a\u064a\u0646\u0627\u062a \u0627\u0644\u062d\u0644\u064a\u0628) \u062f\u0647\u0648\u0646 \u0646\u0628\u0627\u062a\u064a\u0629 \u0627\u0644\u062a\u062e\u064a\u0644 \u0646\u0648\u0642\u0627 \u0627\u0644\u0645\u062f\u0631\u0628\u0648\u0646\u0627\u062a \u0627\u0644\u0635\u0648\u062f\u064a\u0648\u0645 (2500) \u0645\u0631\u0637\u0628 (\u0633\u0648\u0631\u0628\u064a\u062a\u0648\u0644)\u060c \u0645\u0633\u062a\u062d\u0644\u0628\u0627\u062a \u0645\u0646 \u0623\u0635\u0644 \u0646\u0628\u0627\u062a\u064a (\u0627\u0644\u0645\u0633\u064a\u0626\u064a\u0646 \u0627\u0644\u0635\u0648\u064a\u0627 322 \u060c \u0623\u062d\u0627\u062f\u064a \u0648\u062b\u0646\u0627\u0626\u064a \u062c\u0644\u064a\u0633\u0631\u064a\u062f\u0627\u062a \u0645\u0646 \u0627\u0644\u0623\u062d\u0645\u0627\u0636 \u0627\u0644\u062f\u0647\u0646\u064a\u0629 E471 \u060c \u0645\u062a\u0639\u062f\u062f \u062c\u0644\u064a\u0633\u064a\u0631\u0648\u0644 \u0645\u062a\u0639\u062f\u062f \u0631\u064a\u0633\u064a\u0646\u0648\u0644\u064a\u0627\u062a E476 \u060c \u0645\u0644\u062d \u0648\u0646\u0643\u0647\u0629 ( \u0641\u0627\u0646\u064a\u0644\u064a\u0646). \u064a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0627\u0644\u0641\u0648\u0644 \u0627\u0644\u0633\u0648\u062f\u0627\u0646\u064a \u0645\u0646 \u0627\u0644\u0634\u0648\u0627\u0643\u0647 \u0627\u0644\u062c\u0627\u0641\u0629 \u060c \u062a\u062d\u0630\u064a\u0631 \u062a\u0646\u0627\u0648\u0644 40 \u062c\u0631\u0627\u0645\u0627 \u0645\u0646 \u0627\u0644\u0633\u0648\u0631\u0628\u064a\u062a\u0648\u0644 \u064a\u0648\u0645\u064a\u0627 \u064a\u0645\u0643\u0646 \u0623\u0646 \u064a\u0633\u0628\u0628 \u062a\u0623\u062b\u064a\u0631\u0627 \u0645\u0644\u064a\u0646\u0627.",
+    "labels": []
+  },
+  {
+    "off_id": "8000500037560",
+    "name": "Kinder Bueno",
+    "brand": "Kinder",
+    "ingredients_text": "milk chocolate 31,5 % (sugar, cocoa butter, cocoa mass, skimmed milk powder, concentrated butter, emulsifiers: lecithins [soya], vanillin), sugar, palm oil, wheat flour, ground hazelnuts 10,8%, skimmed milk powder, milk powder, dark chocolate (sugar, cocoa mass, cocoa butter, emulsifiers: lecithins [soya], vanillin), lean cocoa, emulsifiers: lecithins [soya], raising agents (sodium acid carbonate, ammonium acid carbonate), salt, vanillin,",
+    "labels": [
+      "en:green-dot",
+      "en:pure-cocoa-butter"
+    ]
+  },
+  {
+    "off_id": "6111265980229",
+    "name": "Nutabella",
+    "brand": "null",
+    "ingredients_text": "Nutabella \u0627\u0644\u0645\u0643\u0648\u0646\u0627\u062a : \u0633\u0643\u0631\u060c \u0632\u064a\u0648\u062a \u0648 \u062f\u0647\u0648\u0646 \u0646\u0628\u0627\u062a\u064a\u0629\u060c \u0645\u0633\u062d\u0648\u0642 \u0627\u0644\u0643\u0627\u0643\u0627\u0648 (AR) \u0645\u0633\u062d\u0648\u0642 \u0645\u0635\u0644 \u0627\u0644\u062d\u0644\u064a\u0628\u060c \u0645\u0633\u062a\u062d\u0644\u0628 \u0644\u064a\u0633\u062a\u064a\u0646 \u0627\u0644\u0635\u0648\u062c\u0627 \u060c \u0645\u0644\u062d \u060c \u0646\u0643\u0647\u0627\u062a \u0627\u0644\u0628\u0646\u062f\u0642 \u0648\u0627\u0644\u0641\u0627\u0646\u064a\u0644\u0627 (F) INGR\u00c9DIENTS: Sucre, huiles et graisses v\u00e9g\u00e9tales, cacao en poudre, lactos\u00e9rum en poudre Emulsifiant : l\u00e9cithine de soja, sel, ar\u00f4mes noisettes & vanille. (E) INGREDIENTS: Sugar, vegetable oils and fats, cocoa powder, whey powder Emulsifier : soy lecithin, salt, hazelnut aromas & vanilla. INGREDIENTES: Az\u00facar, aceites y grasas vegetales,cacao polvo, suero en polvo Emulsionante lecitina de soja, sal, aromas de avellanas & vainika VALEUR NUTRITIONELLE NUTRITIONAL VALUE 100g",
+    "labels": []
+  },
+  {
+    "off_id": "6111199000017",
+    "name": "Flash Wondermint Gum",
+    "brand": "Flash",
+    "ingredients_text": "Sugar, Gum base, glucose syrup, Peppermint flavor, Humectant: glycerin, Emulsifier: soya lecithin.",
+    "labels": []
+  },
+  {
+    "off_id": "4014400901191",
+    "name": "Merci Finest Selection Assorted Chocolates",
+    "brand": "Storck",
+    "ingredients_text": "sugar, cocoa butter, cocoa mass, whole  milk  powder, vegetable fats (palm, shea),  hazelnuts  (3,8%),  almonds  (3,4%), cream powder ( milk ), skimmed  milk  powder, lactose ( milk ),  buttermilk  powder, butterfat ( milk ), dextrose, fat reduced cocoa, fructose, emulsifier:  soya  lecithin, glucose syrup, invert sugar syrup, coffee, flavourings, salt,",
+    "labels": [
+      "en:green-dot"
+    ]
+  },
+  {
+    "off_id": "7622400006753",
+    "name": "Noir 70% Intense",
+    "brand": "C\u00f4te d'Or,Mondel\u0113z",
+    "ingredients_text": "P\u00e2te de cacao, sucre, beurre de cacao, cacao maigre en poudre, beurre concentr\u00e9, \u00e9mulsifiant (l\u00e9cithines de soja), ar\u00f4me naturel de vanille, lait \u00e9cr\u00e9m\u00e9 en poudre,",
+    "labels": [
+      "en:cocoa-life",
+      "en:green-dot",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "7622210834713",
+    "name": "Milka wholenut",
+    "brand": "Milka",
+    "ingredients_text": "",
+    "labels": [
+      "en:green-dot"
+    ]
+  },
+  {
+    "off_id": "8000500227848",
+    "name": "B-ready 6 pi\u00e8ces",
+    "brand": "Ferrero",
+    "ingredients_text": "P\u00e2te \u00e0 tartiner aux NOISETTES et au cacao 81,5% (sucre, huile de palme, NOISETTES 13%**, LAIT \u00e9cr\u00e9m\u00e9 en poudre 8,7%**, cacao maigre 7,4%**, \u00e9mulsifiants: l\u00e9cithines [SOJA]; vanilline), farine de FROMENT 16%, levure de bi\u00e8re, extrait de malt d'ORGE, sel, LAIT \u00e9cr\u00e9m\u00e9 en poudre, \u00e9mulsifiants : l\u00e9cithines [SOJA]; prot\u00e9ines de FROMENT, prot\u00e9ines de LAIT. **Correspond \u00e0 10,6% de noisettes, 7% de lait \u00e9cr\u00e9m\u00e9 en poudre et 6% de cacao maigre dans le produit fini.",
+    "labels": [
+      "it:b-ready"
+    ]
+  },
+  {
+    "off_id": "5000159535267",
+    "name": "Dark Chocolate Nuts & Sea Salt Bars",
+    "brand": "KIND",
+    "ingredients_text": "Almonds, peanuts, dark chocolate coating (sugar, cocoa mass, cocoa butter, emulsifier (soya lecithin), natural flavouring), chicory root fibre, honey, glucose syrup, rice crisps (rice flour), cocoa mass, sea salt, emulsifier (soya lecithin). (May contain: other nuts, milk.)",
+    "labels": [
+      "en:no-gluten",
+      "en:vegetarian"
+    ]
+  },
+  {
+    "off_id": "5900951311505",
+    "name": "Snickers",
+    "brand": "Snickers",
+    "ingredients_text": "milk chocolate (sugar, cocoa butter, chocolate, skim milk, lactose, milkfat, soy lecithin), peanuts, corn syrup, sugar, palm oil, skim milk, lactose, salt, egg whites, artificial flavor, peanuts, milk, egg and soy, tree nuts,",
+    "labels": [
+      "en:green-dot"
+    ]
+  },
+  {
+    "off_id": "5000159459228",
+    "name": "Twix Twin",
+    "brand": "Mars Wrigley",
+    "ingredients_text": "sugar, glucose syrup, wheat flour (17%), palm fat, cocoa butter, skimmed milk powder, cocoa mass, lactose, milk fat, whey powder (from milk), fat reduced cocoa, salt, emulsifier (soya lecithin), raising agent (e500), natural vanilla extract. may contain hazelnuts and almonds.",
+    "labels": []
+  },
+  {
+    "off_id": "5000426171518",
+    "name": "AFTER EIGHT Coffret 300g",
+    "brand": "After Eights",
+    "ingredients_text": "Sucre, p\u00e2te de cacao, sirop de glucose, mati\u00e8res grasses v\u00e9g\u00e9tales (palme, karit\u00e9, palmiste), beurre de cacao, mati\u00e8re grasse de LAIT anhydre, \u00e9mulsifiant (l\u00e9cithines), stabilisant (invertase), huile essentielle de menthe poivr\u00e9e, acidifiant (acide citrique). Peut contenir : ARACHIDES, FRUITS A COQUE (NOISETTES) et LAIT.",
+    "labels": [
+      "en:vegetarian",
+      "en:nestle-cocoa-plan",
+      "en:rainforest-alliance",
+      "en:rainforest-alliance-cocoa",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "4008400163826",
+    "name": "Ferrero Rocher",
+    "brand": "Ferrero",
+    "ingredients_text": "Chocolat au _LAIT_ 30% (sucre, beurre de cacao, p\u00e2te de cacao, _LAIT_ \u00e9cr\u00e9m\u00e9 en poudre, _BEURRE_ concentr\u00e9, \u00e9mulsifiants (l\u00e9cithines (soja), vanilline), _NOISETTES_ 28,5%, sucre, huile de palme, farine de bl\u00e9, _LACTOSERUM_ en poudre, cacao maigre, \u00e9mulsifiants (l\u00e9cithines (_SOJA_)), poudre \u00e0 lever (carbonate acide de sodium), sel, vanilline.",
+    "labels": [
+      "en:green-dot"
+    ]
+  },
+  {
+    "off_id": "6111270030018",
+    "name": "Pikota",
+    "brand": "Unknown Brand",
+    "ingredients_text": "Graineddoidurnesot,maizent, sel prot\u00e9geae\nde saveur (E/621, Peut contenit des traces\nd'autres fruits secs E",
+    "labels": []
+  },
+  {
+    "off_id": "80177609",
+    "name": "Kinder Chocolate",
+    "brand": "Kinder",
+    "ingredients_text": "milk  chocolate 40% (sugar, whole  milk  powder, cocoa butter, cocoa mass, emulsifier: lecithins ( soy ), flavouring: vanillin), sugar, skim  milk  powder, vegatable oil ( palm *), anhydrous milkfat ( milk ), emulsifier (lecithins) ( soy ), flavouring (vanillin),",
+    "labels": []
+  },
+  {
+    "off_id": "7622400013935",
+    "name": "Noir 86% Extra intense",
+    "brand": "C\u00f4te d'Or, Mondel\u0113z",
+    "ingredients_text": "P\u00e2te de cacao, beurre de cacao, cacao maigre en poudre, sucre, ar\u00f4me naturel de vainille, \u00e9mulsifiant (l\u00e9cithines de _soja_), _lait_ \u00e9cr\u00e9m\u00e9 en poudre.",
+    "labels": [
+      "en:cocoa-life",
+      "en:green-dot",
+      "en:rainforest-alliance",
+      "fr:tidy-man",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "7622201695323",
+    "name": "Halls",
+    "brand": "Mondelez",
+    "ingredients_text": "sugar, glucose syrup, artificial and natural flavors (menthol, eucalyptus oil), acidity regulators (e270, e330, e332), color (e133),",
+    "labels": []
+  },
+  {
+    "off_id": "8000300264388",
+    "name": "",
+    "brand": "Nestl\u00e9",
+    "ingredients_text": "Sucre, beurre de cacao, c\u00e9r\u00e9ales croustillantes 15% (farine de riz, sucre, cacao maigre, sel), p\u00e2te de cacao, _LAIT_ entier en poudre, _LAIT_ \u00e9cr\u00e9m\u00e9 en poudre, _PETIT-LAIT_ en poudre, mati\u00e8re grasse de _LAIT_ anhydre, \u00e9mulsifiant (l\u00e9cithine de tournesol), ar\u00f4me naturel de vanille.",
+    "labels": [
+      "en:no-gluten",
+      "en:crossed-grain-trademark",
+      "en:nutriscore",
+      "en:nutriscore-grade-e",
+      "en:rainforest-alliance",
+      "en:rainforest-alliance-cocoa",
+      "fr:triman",
+      "pt:ch-042-023"
+    ]
+  },
+  {
+    "off_id": "6111259344426",
+    "name": "Excelo nougat",
+    "brand": "Excelo",
+    "ingredients_text": "milk chocolate (sugar, cocoa butter, milk ingredients, unsweetened chocolate, lactose, soy lecithin, salt, natural flavor), honey, sugar, corn syrup, palm oil, skim milk powder, whey powder, butter, modified milk ingredients, salt, natural flavor, soy lecithin, egg whites, baking soda",
+    "labels": [
+      "en:green-dot"
+    ]
+  },
+  {
+    "off_id": "8000500003787",
+    "name": "",
+    "brand": "Ferrero Rocher",
+    "ingredients_text": "\u0634\u0648\u0643\u0648\u0644\u0627\u062a\u0629 \u0627\u0644\u062d\u0644\u064a\u0628 (\u0633\u0643\u0631\u060c \u0632\u0628\u062f\u0629 \u0627\u0644\u0643\u0627\u0643\u0627\u0648\u060c \u0643\u062a\u0644\u0629 \u0627\u0644\u0643\u0627\u0643\u0627\u0648\u060c \u0645\u0633\u062d\u0648\u0642 \u0627\u0644\u062d\u0644\u064a\u0628 \u0645\u0646\u0632\u0648\u0639 \u0627\u0644\u062f\u0633\u0645\u060c \u0632\u064a\u062a \u0627\u0644\u0632\u0628\u062f\u0629\u060c \u0644\u064a\u0633\u064a\u062b\u064a\u0646 \u0627\u0644\u0635\u0648\u064a\u0627\u060c \u0627\u0644\u0641\u0627\u0646\u064a\u0644\u064a\u0646)\u060c \u0627\u0644\u0628\u0646\u062f\u0642\u060c \u0627\u0644\u0633\u0643\u0631\u060c \u0632\u064a\u062a \u0627\u0644\u0646\u062e\u064a\u0644\u060c \u062f\u0642\u064a\u0642 \u0627\u0644\u0642\u0645\u062d\u060c \u0645\u0635\u0644 \u0627\u0644\u0644\u0628\u0646\u060c \u0645\u0633\u062d\u0648\u0642 \u0627\u0644\u0643\u0627\u0643\u0627\u0648 \u0642\u0644\u064a\u0644 \u0627\u0644\u062f\u0633\u0645\u060c \u0644\u064a\u0633\u064a\u062b\u064a\u0646 \u0627\u0644\u0635\u0648\u064a\u0627\u060c \u0628\u064a\u0643\u0631\u0628\u0648\u0646\u0627\u062a \u0627\u0644\u0635\u0648\u062f\u064a\u0648\u0645\u060c \u0627\u0644\u0645\u0644\u062d\u060c \u0627\u0644\u0641\u0627\u0646\u064a\u0644\u064a\u0646",
+    "labels": [
+      "en:vegetarian",
+      "en:green-dot",
+      "en:pure-cocoa-butter"
+    ]
+  },
+  {
+    "off_id": "6294003539054",
+    "name": "Kitkat",
+    "brand": "Nestl\u00e9",
+    "ingredients_text": "Sugar, Wheat Rour, Skimmed Cow's Milk Powder, Non-Hydrogenated Vegetable Oils (Palm Kernel, Shea, Palm), Cocoa Butter, Cocoa Mass, Whey Powder, Milk Fat, Cocoa Powder, Emulsifier from Plant Drigin (Sunflower lecithin), Raising agent (Sodium Bicarbonatal Contains Milk including Lactose & Gluten from Wheat, may contain Soy & Nuts.",
+    "labels": [
+      "en:nestle-cocoa-plan",
+      "en:pure-cocoa-butter"
+    ]
+  },
+  {
+    "off_id": "3760091726667",
+    "name": "Chocolat noir 80% \u00c9quateur intense et floral",
+    "brand": "Ethiquable",
+    "ingredients_text": "p\u00e2te de cacao  70%, sucre de canne , beurre de cacao, Cacao : 80% minimum dans le chocolat,\r\n\r\n\u00b0 Issus de l'agriculture biologique (100%)\r\n* Issus du commerce \u00e9quitable (100% du poids total avec 89% SPP)",
+    "labels": [
+      "en:fair-trade",
+      "en:organic",
+      "en:certified-by-ecocert",
+      "en:eu-organic",
+      "en:non-eu-agriculture",
+      "en:fr-bio-01",
+      "en:it-bio-014",
+      "en:small-producers-symbol",
+      "fr:ab-agriculture-biologique",
+      "fr:equitable-ecocert",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "20815356",
+    "name": "Dunkle Schokolade mit ganzen Haseln\u00fcssen",
+    "brand": "fin Carr\u00e9",
+    "ingredients_text": "Kakaomasse, Zucker, Haselnusskerne, Kakaobutter, Butterreinfett, Emulgator: Lecithine. Kann Spuren von Gluten, Soja, anderen Schalenfr\u00fcchten und Erdn\u00fcssen enthalten.",
+    "labels": [
+      "en:fair-trade",
+      "en:fairtrade-international",
+      "en:sustainable-farming",
+      "en:fairtrade-cocoa",
+      "en:made-in-germany",
+      "en:max-havelaar",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "5000159492737",
+    "name": "M&M's peanut",
+    "brand": "Mars Wrigley",
+    "ingredients_text": "Sucre, _cacahu\u00e8tes_, p\u00e2te de cacao, _lait_ entier en poudre, beurre de cacao, amidon, mati\u00e8re grasse de palme, sirop de glucose, _lait_ \u00e9cr\u00e9m\u00e9 en poudre, \u00e9mulsifiant (l\u00e9cithine de _soja_), _lactose_, stabilisant (gomme arabique), mati\u00e8re grasse de karit\u00e9, mati\u00e8re grasse du _lait_, dextrine, colorants (E100, E120, E133. E160a, E160e, E170), agent d'enrobage (cire de carnauba), huile de palmiste, ar\u00f4mes, sel.",
+    "labels": [
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "3046920029674",
+    "name": "Excellence \u00c0 la Pointe de Fleur de Sel Noir",
+    "brand": "Lindt & Spr\u00fcngli,Lindt",
+    "ingredients_text": "Sucre, p\u00e2te de cacao, beurre de cacao, beurre laitier concentr\u00e9, \u00e9mulsifiant : l\u00e9cithine de soja, fleur de sel 0,3 %, ar\u00f4me : vanille.",
+    "labels": []
+  },
+  {
+    "off_id": "6111017030073",
+    "name": "Sweeties Mini",
+    "brand": "aiguebelle",
+    "ingredients_text": "Sucre, beurre de cacao, p\u00e2te de cacao, lait en poudre, lactos\u00e9rum en poudre, amidon, glucose, gomme arabique (E414), \u00e9mulsifiant : l\u00e9cithine de soja (E322), aniline, colorants alimentaires (E104, E110, E122, E124, E132, E133, E171, E172), dire camauba (E903).",
+    "labels": [
+      "en:pure-cocoa-butter"
+    ]
+  },
+  {
+    "off_id": "6111259347106",
+    "name": "6111259347106",
+    "brand": "Unknown Brand",
+    "ingredients_text": "",
+    "labels": []
+  },
+  {
+    "off_id": "6111259344051",
+    "name": "\u0633\u064a\u0631\u062c\u064a\u0648  \u0635\u063a\u064a\u0631\u0629",
+    "brand": "Unknown Brand",
+    "ingredients_text": "Sugar, palm oil, hazelnuts, fat-reduced cocoa powder, skimmed milk powder, whey powder (milk), emulsifier (soy lecithin), vanillin",
+    "labels": []
+  },
+  {
+    "off_id": "7613035040700",
+    "name": "NESTL\u00c9 DESSERT Noir 205g",
+    "brand": "Nestl\u00e9, NESTLE DESSERT, Tablettes",
+    "ingredients_text": "Sucre, p\u00e2te de cacao\u00b9 (Afrique de l'Ouest, Am\u00e9rique du Sud), beurre de cacao\u00b9, \u00e9mulsifiant (l\u00e9cithines), ar\u00f4me naturel de vanille de Madagascar. Peut contenir : LAIT, FRUITS \u00c0 COQUE. Cacao : 53% minimum. \u00b9Bilan massique certifi\u00e9 Rainforest Alliance. www.ra.org",
+    "labels": [
+      "en:green-dot",
+      "en:nestle-cocoa-plan",
+      "en:nutriscore",
+      "en:nutriscore-grade-e",
+      "en:rainforest-alliance",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "40084077",
+    "name": "Kinder Riegel Einzelpackung",
+    "brand": "Ferrero,Kinder",
+    "ingredients_text": "VOLLMILCHSCHOKOLADE 40% (Zucker, VOLLMILCHIVER Kakaobutter, Kakaomasse, Emulgator Lecithine (SOJA), Vanillin MAGERMILCHPULVER 18 %, Palm\u00f6l, BUTTERREINFETT, Emulgator Lecithine (SOJA), Vanillin.",
+    "labels": [
+      "en:green-dot"
+    ]
+  },
+  {
+    "off_id": "7622200002290",
+    "name": "Mignonnette noir de noir",
+    "brand": "C\u00f4te d'or,Kraft Foods,Mondelez International",
+    "ingredients_text": "Sucre, p\u00e2te de cacao, beurre de cacao, \u00e9mulsifiant (l\u00e9cithines de SOJA), ar\u00f4me naturel de vanille, LAIT \u00e9cr\u00e9m\u00e9 en poudre. Cacao : 46% minimum. PEUT CONTENIR FRUITS \u00c0 COQUE.",
+    "labels": [
+      "en:cocoa-life",
+      "en:green-dot",
+      "en:rainforest-alliance"
+    ]
+  },
+  {
+    "off_id": "6111259344464",
+    "name": "",
+    "brand": "Excelo",
+    "ingredients_text": "Sucre Sirop de glucose, Cacao en poudre Poudres laiti\u00e8res (Poudre de lat entier, Poudre de lait \u00e9cr\u00e9m\u00e9, Prot\u00e9ines de lait), Graisses et huiles v\u00e9g\u00e9tales (Palme, Palmiste) Beure, Blanc d'oeuf en poudre, Sel Poudre levante (Bicarbonate de sodiurn). Emulsifiant v\u00e9g\u00e9tale decithine de soja, Mono et diglycerides acide gras (E47) polvicinoleate de polyglycerol (PGPR), Humectant Sortito Nome Contient: Lait, Cuts et Soja, peut contenir des traces des arbres et fruits \u00e0 coque (Noisette)",
+    "labels": []
+  },
+  {
+    "off_id": "8000500009673",
+    "name": "Ferrero rocher",
+    "brand": "Ferrero",
+    "ingredients_text": "Chocolat au LAIT 30% (sucre, beurre de cacao, p\u00e2te de cacao, LAIT \u00e9cr\u00e9m\u00e9 en poudre, BEURRE concentr\u00e9, \u00e9mulsifiants : l\u00e9cithines [SOJA] ; vanilline), NOISETTES 28,5%, sucre, huile de palme, farine de FROMENT, LACTOSERUM en poudre, cacao maigre, \u00e9mulsifiants : l\u00e9cithines [SOJA] ; poudre \u00e0 lever : carbonate acide de sodium ; sel, vanilline. Le chocolat utilis\u00e9 est un chocolat pur beurre de cacao.",
+    "labels": [
+      "en:vegetarian",
+      "en:halal",
+      "en:green-dot"
+    ]
+  },
+  {
+    "off_id": "20706852",
+    "name": "Mints",
+    "brand": "J.D. Gross, Lidl",
+    "ingredients_text": "ingredients sugar, cocoa mass**, glucose syrup, cocoa butter** butter oil (milk), emulsifier: lecithins (soya), humectant: invertase, peppermint oil, gelling agent: agar, acid: citric acid, salt, **rainforest alliance certified, find out more at ra,org,",
+    "labels": [
+      "en:rainforest-alliance",
+      "fr:fairtrade-cacao"
+    ]
+  },
+  {
+    "off_id": "6111035000430",
+    "name": "Sidi Ali",
+    "brand": "\u0633\u064a\u062f\u064a \u0639\u0644\u064a",
+    "ingredients_text": "OBD1 999 999 1112606 266963207 mb",
+    "labels": []
+  },
+  {
+    "off_id": "6111035002175",
+    "name": "Sidi Ali",
+    "brand": "Sidi Ali",
+    "ingredients_text": "Sodium, Calcium, Magn\u00e9sium, Potassium, Bicarbonates, Sulfates, Chlorures,",
+    "labels": [
+      "en:green-dot"
+    ]
+  },
+  {
+    "off_id": "6111035000058",
+    "name": "Eau min\u00e9rale naturelle",
+    "brand": "sidi ali",
+    "ingredients_text": "100% mineral water",
+    "labels": [
+      "en:iso-22000",
+      "en:iso-14001",
+      "en:iso-45001",
+      "en:iso-9001"
+    ]
+  },
+  {
+    "off_id": "6111252421568",
+    "name": "\u0627\u0643\u0648\u0627\u0641\u064a\u0646\u0627",
+    "brand": "AQUAFINA",
+    "ingredients_text": "ouverture et avant le : Voir bouteille. apr\u00e8s \u0645\u064a\u0627\u0647 \u0645\u0635\u0641\u0627\u0629 \u0628\u062a\u0642\u0646\u064a\u0629 \u0627\u0643\u0648\u0627\u0641\u064a\u0646\u0627 \u0647\u0627\u064a\u062f\u0631\u0648 - 7 Eau purifi\u00e9e par la technique Aquafina HydRO-7",
+    "labels": []
+  },
+  {
+    "off_id": "3274080005003",
+    "name": "Eau De Source",
+    "brand": "Cristaline",
+    "ingredients_text": "Eau de source",
+    "labels": [
+      "fr:triman",
+      "it:acqua-di-sorgente"
+    ]
+  },
+  {
+    "off_id": "6111128000071",
+    "name": "Ain Sa\u00efss",
+    "brand": "Danone",
+    "ingredients_text": "Eau min\u00e9rale naturelle",
+    "labels": []
+  },
+  {
+    "off_id": "6111035502828",
+    "name": "Eau min\u00e9ral naturelle",
+    "brand": "Ain atlas",
+    "ingredients_text": "0800 94 A\u00efn Atlas EAU MIN\u00c9RALE NATURELLE 55 VOTRE CAF\u00c9 POUR ACCOMPAGNER An Atlas ANNEMANG BLE",
+    "labels": [
+      "en:green-dot"
+    ]
+  },
+  {
+    "off_id": "6111035000027",
+    "name": "6111035000027",
+    "brand": "Sidi Ali",
+    "ingredients_text": "Composition min\u00e9rale en mg/\r\nR\u00e9sidu sec \u00e0 110\u00b0C: 186\r\n12 t S Sodium 26 tCalciumMagn\u00e9sium9 tiiSulfates 42 i3 t H Chiorures 14Potassium\r\nBicarbonates 104 i Nitrates",
+    "labels": [
+      "en:green-dot",
+      "en:maroc"
+    ]
+  },
+  {
+    "off_id": "6111252421582",
+    "name": "\u0627\u0643\u0648\u0627\u0641\u064a\u0646\u0627",
+    "brand": "pepsi",
+    "ingredients_text": "Aqua",
+    "labels": []
+  },
+  {
+    "off_id": "6111035003035",
+    "name": "Oulmes natural carbonated water",
+    "brand": "Les eaux min\u00e9rales d'Oulm\u00e8s S.A.",
+    "ingredients_text": "Natural carbonated water 100%",
+    "labels": [
+      "en:iso-22000",
+      "en:iso-14001",
+      "en:iso-45001",
+      "en:iso-9001",
+      "en:natural-co2"
+    ]
+  },
+  {
+    "off_id": "5449000147417",
+    "name": "Cappy PULPY",
+    "brand": "Coca cola",
+    "ingredients_text": "Eau, jus et pulpe d'orange, sucre, acidifiants: E330, E300, \u00e9paississant: E440, \u00e9mulsifiants: E414, E445; ar\u00f4mes naturels et identiques aux naturels, \u00e9dulcorants: E954, E950; colorant: E160a.",
+    "labels": [
+      "en:with-sweeteners"
+    ]
+  },
+  {
+    "off_id": "6111128000163",
+    "name": "Ain Saiss Eau Minerale Naturelle",
+    "brand": "Danone",
+    "ingredients_text": "Calcium : 63,5\r\nMagn\u00e9sium : 35,5\r\nNitratex : 7\r\nSodium 8\r\nChlorures : 19,8\r\nSulfate : 3,8\r\nBicarbonate : 372\r\nPotassium : 1",
+    "labels": []
+  },
+  {
+    "off_id": "6111035001659",
+    "name": "Ain Atlas",
+    "brand": "Eau min\u00e9rale naturelle des Montagnes d'Atlas",
+    "ingredients_text": "Composition Min\u00e9rale en mg/L \r\nR\u00e9sidu Sec \u00e0 110\u00b0C: 249 en mg/L \r\n- Sodium 48 \r\n- Calcium 18 \r\n- Magn\u00e9sium 13 \r\n- Potassium\r\n- Bicarbonates 217 \r\n- Chlorures 12 \r\n- Sulfates 8 \r\n- Nitrates 4",
+    "labels": []
+  },
+  {
+    "off_id": "6111035001635",
+    "name": "Ain Atlas",
+    "brand": "Eau min\u00e9rale naturelle",
+    "ingredients_text": "Sodium 48 Calcium 18 Magn\u00e9sium 13 Potassium 8 Bicarbonates 217 Chlorures 12 Sulfates Nitrates 4",
+    "labels": []
+  },
+  {
+    "off_id": "54491472",
+    "name": "coca cola 0,5",
+    "brand": "Coca-Cola",
+    "ingredients_text": "water, fructose-glucose syrup, carbon dioxide, colorant: e150d, acid: phosphoric acid, natural flavors, caffeine flavoring,",
+    "labels": [
+      "en:made-in-swiss"
+    ]
+  },
+  {
+    "off_id": "6111128000460",
+    "name": "",
+    "brand": "a\u00efn Saiss",
+    "ingredients_text": "eau",
+    "labels": []
+  },
+  {
+    "off_id": "3268840001008",
+    "name": "CRISTALINE Eau De Source 0.5L",
+    "brand": "Cristaline",
+    "ingredients_text": "Eau de source",
+    "labels": [
+      "fr:triman",
+      "fr:sans-nitrates"
+    ]
+  },
+  {
+    "off_id": "5449000214911",
+    "name": "Coca-Cola",
+    "brand": "Coca-Cola",
+    "ingredients_text": "Eau gaz\u00e9ifi\u00e9e, sucre, colorant: E150d, acidifiant: acide phosphorique, ar\u00f4mes naturels, ar\u00f4me caf\u00e9ine.",
+    "labels": [
+      "en:made-in-france",
+      "fr:triman",
+      "hr:povratna-naknada"
+    ]
+  },
+  {
+    "off_id": "5449000061515",
+    "name": "Ciel",
+    "brand": "THE COCA-COLA COMPANY",
+    "ingredients_text": "eau min\u00e9rale, calcium, magn\u00e9sium, sodium, potassium, bicarbonates, chlorures, sulfates, nitrates",
+    "labels": [
+      "en:halal"
+    ]
+  },
+  {
+    "off_id": "42104964",
+    "name": "Ciel 33cl",
+    "brand": "Ciel",
+    "ingredients_text": "\u0645\u0627\u0621 \u0645\u0635\u0641\u0649 (\u0645\u0639\u0627\u0644\u062c \u0648\u0645\u0646\u0636\u062d) \u0648\u0623\u0645\u0644\u0627\u062d \u0645\u0639\u062f\u0646\u064a\u0629 (\u0645\u0627\u063a\u0646\u0633\u064a\u0648\u0645)",
+    "labels": []
+  },
+  {
+    "off_id": "6111128000088",
+    "name": "ain saiss 50cl",
+    "brand": "\u0639\u064a\u0646 \u0633\u0627\u064a\u0633",
+    "ingredients_text": "Eau.",
+    "labels": [
+      "en:green-dot"
+    ]
+  },
+  {
+    "off_id": "6111035003523",
+    "name": "",
+    "brand": "BAHIA",
+    "ingredients_text": "Eau",
+    "labels": []
+  },
+  {
+    "off_id": "6111035003004",
+    "name": "Oulmes Eau Gazeuse",
+    "brand": "Oulm\u00e8s",
+    "ingredients_text": "oulmes eau gazeuse.                                      oulmes eau.                                                       oulmes.                                                                eau drink.",
+    "labels": []
+  },
+  {
+    "off_id": "6111018903161",
+    "name": "Nescaf\u00e9 Classic",
+    "brand": "Nescaf\u00e9",
+    "ingredients_text": "Good Food Godf Neste. \u062a\u062d\u062f\u062b \u0625\u0644\u064a \u0646\u0633\u062a\u0644\u0647 080 105 10 10 82 100 800 ig \u0635\u0646\u0639 \u0645\u0646 \u0637\u0631\u0641 \u0646\u0633\u062a\u0644\u0647 \u0627\u0644\u0645\u063a\u0631\u0628 \u0627\u0644\u0637\u0642\u0629 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629 2440 ONSSAN CTC 53-05-13 vasi \u0633\u062a\u0648\u0631\u062f \u0645\u0646 \u0637\u0631\u0641 \u0646\u0633\u062a\u0644\u0647 \u062a\u0648\u0646\u0633 \u0644\u062a\u0648\u0632\u064a\u0639\u060c \u0628 \u0632\u063a\u0648\u0627\u0646 - \u062a\u0648\u0646\u0633 \u062a\u0648\u0631\u062f \u0645\u0646 \u0637\u0631\u0641 \u0646\u0633\u062a\u0644\u0647 \u0627\u0644\u062c\u0632\u0627\u0626\u0631\u0634. \u062f\u0631\u0629 \u0627\u0644\u0632\u0648\u0627\u0631 - 1531 \u0627\u0644\u062c\u0632\u0627\u0626\u0631 www.nestlemaghreb.com NUTRITIONAL COMPASS \u0639\u0644\u0627\u0645\u0629 \u062a\u062c\u0627\u0631\u064a\u0629 \u0645\u0633\u062c\u0644\u0629 \u0644\u0634\u0631\u0643\u0629",
+    "labels": []
+  },
+  {
+    "off_id": "6111032006619",
+    "name": "Jamila \u0631\u0627\u064a\u0628\u064a",
+    "brand": "Danone",
+    "ingredients_text": "Lait sans cr\u00e8me, sucre, cr\u00e8me, poudre de lait sans cr\u00e8me, prot\u00e9ines du lait, mati\u00e8re grasse laitiere, colorant naturel",
+    "labels": []
+  },
+  {
+    "off_id": "6111251420166",
+    "name": "Eau",
+    "brand": "A\u00efn lfrane",
+    "ingredients_text": "Eau min\u00e9rale naturelle",
+    "labels": [
+      "fr:tidy-man"
+    ]
+  },
+  {
+    "off_id": "6111252421575",
+    "name": "Aquafina 50cl",
+    "brand": "Aquafina",
+    "ingredients_text": "eau",
+    "labels": []
+  },
+  {
+    "off_id": "5449000214799",
+    "name": "Coke Zero",
+    "brand": "Coca-Cola",
+    "ingredients_text": "carbonated water, colouring (e150d), acidifier (phosphoric acid), sweeteners (aspartame, acesulfame-k), natural flavors, caffeine aroma, acidity regulator (sodium citrates)",
+    "labels": [
+      "en:kosher",
+      "en:made-in-france",
+      "en:natural-flavors",
+      "en:no-hydrogenated-fats",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "5411188112709",
+    "name": "Ger\u00f6stete Mandel Ohne Zucker",
+    "brand": "alpro",
+    "ingredients_text": "Wasser, _Mandeln_ (2,3%), Calcium (Calciumcarbonat), Meersalz, Stabilisatoren (Guarkernmehl, Gellan), Emulgator (Lecithine), nat\u00fcrliches Aroma, Vitamine B12, D2, E.",
+    "labels": [
+      "en:low-or-no-fat",
+      "en:low-or-no-sugar",
+      "en:vegetarian",
+      "en:low-fat",
+      "en:no-gluten",
+      "en:no-preservatives",
+      "en:vegan",
+      "en:100-vegetable",
+      "en:calcium-source",
+      "en:certified-b-corporation",
+      "en:european-vegetarian-union",
+      "en:european-vegetarian-union-vegan",
+      "en:fsc",
+      "en:fsc-mix",
+      "en:low-saturated-fat",
+      "en:no-colorings",
+      "en:no-dyes-or-preservatives",
+      "en:no-milk",
+      "en:no-sugar",
+      "en:nutriscore",
+      "en:nutriscore-grade-b",
+      "en:the-vegan-society",
+      "en:without-sweeteners",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "6111035001673",
+    "name": "A\u00efn Atlas 50cl",
+    "brand": "A\u00efn Atlas",
+    "ingredients_text": "eau minerale",
+    "labels": [
+      "en:ain-atlas"
+    ]
+  },
+  {
+    "off_id": "7394376616228",
+    "name": "Oat Drink Barista Edition",
+    "brand": "Oatly",
+    "ingredients_text": "water,  oats  10%, rapeseed oil, acidity regulator (dipotassium phosphate), minerals (calcium carbonate, potassium iodide), salt, vitamins (d2, riboflavin and b12),",
+    "labels": [
+      "en:vegetarian",
+      "en:vegan",
+      "en:carbon-footprint",
+      "en:fsc",
+      "en:fsc-mix",
+      "en:no-milk",
+      "en:no-soy",
+      "en:natural-sugars-from-oats"
+    ]
+  },
+  {
+    "off_id": "3057640257773",
+    "name": "Eau Min\u00e9rale Naturelle",
+    "brand": "Volvic",
+    "ingredients_text": "Eau minerale naturelle",
+    "labels": [
+      "en:carbon-compensated-product",
+      "en:carbon-trust",
+      "en:carbon-trust-carbon-neutral",
+      "en:certified-b-corporation",
+      "fr:triman",
+      "en:b-corporation-certification"
+    ]
+  },
+  {
+    "off_id": "6111248360130",
+    "name": "A\u00efn Soltane",
+    "brand": "\u0633\u0644\u0637\u0627\u0646",
+    "ingredients_text": "Min\u00e9ralisation en mg/t \u0643\u0627\u0644\u0633\u064a\u0648\u0645 \u0628\u064a\u0643\u0631\u0628\u0648\u0646\u0627\u062a \u0635\u0648\u062f\u064a\u0648\u0645 \u0643\u0644\u0648\u0631\u064a\u0631 \u0646\u062a\u0631\u0627\u062a \u0628\u0648\u062a\u0627\u0633\u064a\u0648\u0645 \u0633\u0644\u0641\u0627\u062a Magn\u00e9sium 44 Calcium 70-&gt; Bicarbonates 402 \u2022 Sodium 4 Chlorures 7.1 Nitrates 16 Potassium 1 Sulfates 3.7",
+    "labels": []
+  },
+  {
+    "off_id": "5449000206770",
+    "name": "Eau de table",
+    "brand": "Ciel",
+    "ingredients_text": "Eau de Table",
+    "labels": []
+  },
+  {
+    "off_id": "5449000036872",
+    "name": "Hawai Tropical",
+    "brand": "Hawai,Coca cola",
+    "ingredients_text": "\u0645\u0627\u0621 \u063a\u0627\u0632\u064a, \u0633\u0643\u0631, \u0645\u0631\u0643\u0632 \u0639\u0635\u064a\u0631 \u0627\u0644\u0628\u0631\u062a\u0642\u0627\u0644, \u0645\u062d\u0644\u064a\u0627\u062a, \u0645\u0648\u0627\u062f \u062d\u0627\u0641\u0638\u0629, \u0645\u062b\u0628\u062a, \u0646\u0643\u0647\u0627\u062a \u0637\u0628\u064a\u0639\u064a\u0629",
+    "labels": [
+      "en:halal",
+      "fr:societe-francaise-de-controle-de-viande-halal"
+    ]
+  },
+  {
+    "off_id": "6923818812082",
+    "name": "Green Tea",
+    "brand": "green tea",
+    "ingredients_text": "100% soluble coffee",
+    "labels": []
+  },
+  {
+    "off_id": "6111251420135",
+    "name": "A\u00efn Ifrane",
+    "brand": "",
+    "ingredients_text": "eau min\u00e9rale",
+    "labels": []
+  },
+  {
+    "off_id": "16256866",
+    "name": "1848 Chocolat en poudre",
+    "brand": "Poulain",
+    "ingredients_text": "Cacao maigre en poudre (50%) (beurre de cacao (11%)), sucre, ar\u00f4me.\r\n\r\nPeut contenir lait et soja.",
+    "labels": [
+      "en:no-gluten",
+      "en:green-dot",
+      "fr:triman",
+      "en:32"
+    ]
+  },
+  {
+    "off_id": "8002270014901",
+    "name": "S. Pellegrino Water",
+    "brand": "Nestl\u00e9,Nestl\u00e9 Waters,San Pellegrino",
+    "ingredients_text": "carbonated water 100%",
+    "labels": [
+      "en:vegetarian",
+      "en:vegan",
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "5449000054227",
+    "name": "Original Taste",
+    "brand": "Coca-Cola",
+    "ingredients_text": "Water, fructose - glucose syrup, carbon dioxide, colorant: e150d, acid: phosphoric acid, natural flavorings (including caffeine).",
+    "labels": [
+      "en:green-dot",
+      "en:made-in-portugal",
+      "pt:ecoponto-amarelo"
+    ]
+  },
+  {
+    "off_id": "6111242100930",
+    "name": "raibi jaoda",
+    "brand": "Jaouda",
+    "ingredients_text": "lait frais partiellement \u00e9cr\u00e9m\u00e9'sucre'colorant:amidon ' ar\u00f4me 'correcteur d'acidit\u00e9 :acide citrique'ferments lactiques s\u00e9lectionn\u00e9s' mati\u00e8re grasse:1'3%",
+    "labels": [
+      "en:no-gluten"
+    ]
+  },
+  {
+    "off_id": "3068320123264",
+    "name": "La salvetat",
+    "brand": "Danone,La Salvetat",
+    "ingredients_text": "EAU MIN\u00c9RALE NATURELLE, GAZ CARBONIQUE",
+    "labels": [
+      "fr:sud-de-france",
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "5449000131805",
+    "name": "Coke Zero can",
+    "brand": "Coca-Cola",
+    "ingredients_text": "carbonated water, colour (e150d), acid (phosphoric acid) sweeteners (aspartame, acesulfame-k enzymatically produced steviol glycosides), natural flavourings, caffeine flavouring, acidity regulator (sodium citrates), contains a source of phenylalanine,",
+    "labels": [
+      "en:low-or-no-sugar",
+      "en:contains-a-source-of-phenylalanine",
+      "en:green-dot",
+      "en:made-in-france",
+      "en:made-in-the-eu",
+      "en:no-added-sugar",
+      "en:no-sugar",
+      "en:with-sweeteners",
+      "es:recicla-amarillo"
+    ]
+  },
+  {
+    "off_id": "5449000131836",
+    "name": "Coca-Cola Zero Az\u00facar",
+    "brand": "Coca-Cola",
+    "ingredients_text": "water, carbonic acid, colouring, e 150 sweeteners: cyclamate, acesulfame k and aspartame, acidifiers: e 338, acidity regulator: sodium citrates, natural flavourings, flavouring caffeine",
+    "labels": [
+      "en:contains-a-source-of-phenylalanine",
+      "en:energy-free",
+      "en:green-dot",
+      "en:made-in-swiss",
+      "en:with-sweeteners",
+      "fr:triman",
+      "es:recicla-amarillo"
+    ]
+  },
+  {
+    "off_id": "6111242101050",
+    "name": "LBEN CARTON PASTEURISER",
+    "brand": "Jaouda",
+    "ingredients_text": "Lait frais partiellement \u00e9cr\u00e9m\u00e9, ferments lactiques.mati\u00e8re grasse 14g/L",
+    "labels": [
+      "en:no-gluten"
+    ]
+  },
+  {
+    "off_id": "6111035003509",
+    "name": "Bahia, Eau De Table",
+    "brand": "Bahia",
+    "ingredients_text": "eau",
+    "labels": []
+  },
+  {
+    "off_id": "5449000133328",
+    "name": "",
+    "brand": "Coca-Cola",
+    "ingredients_text": "Eau gaz\u00e9ifi\u00e9e, colorant E150d, acidifiants , acide phosphorique, citrate de sodium, \u00e9dulcorants , aspartame, ac\u00e9sulfame-K, ar\u00f4mes naturels (extraits v\u00e9g\u00e9taux), dont caf\u00e9ine, Contient une source de ph\u00e9nylalanine.",
+    "labels": [
+      "en:contains-a-source-of-phenylalanine",
+      "en:green-dot",
+      "en:made-in-swiss"
+    ]
+  },
+  {
+    "off_id": "5449000000439",
+    "name": "Coca Cola Original taste",
+    "brand": "Coca-Cola",
+    "ingredients_text": "Eau gaz\u00e9ifi\u00e9e, sucre, colorant (caramel (E150d)), acidifiant(acide phosphorique), ar\u00f4mes, caf\u00e9ine",
+    "labels": [
+      "en:green-dot",
+      "en:made-in-swiss"
+    ]
+  },
+  {
+    "off_id": "3257971309114",
+    "name": "Eau min\u00e9rale naturelle",
+    "brand": "Mont Roucous",
+    "ingredients_text": "Eau Min\u00e9rale",
+    "labels": [
+      "fr:triman"
+    ]
+  },
+  {
+    "off_id": "42105220",
+    "name": "Coca Cola",
+    "brand": "Coca-Cola",
+    "ingredients_text": "water, sugar, carbonic acid, e150d, e338, natural flavors including caffeine",
+    "labels": [
+      "en:made-in-swiss"
+    ]
+  }
+]
